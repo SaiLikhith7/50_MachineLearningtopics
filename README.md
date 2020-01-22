@@ -1,5 +1,3 @@
-# webpages.github.io
-# Product Name
 ># 50 Important topics or tools to know more about Machine Learning
 
 - ###  Python 
